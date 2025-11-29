@@ -1,0 +1,12 @@
+{
+  "name": "cypress-project",
+  "version": "1.0.0",
+  "description": "Домашка по Cypress для QA Studio",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.1"
+  }
+}
